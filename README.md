@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kwame01
 - 👀 I’m interested in exploring everything tech 
-- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on react projects 
 - 📫 How to reach me lawrenceamoako9@gmail.com
 
